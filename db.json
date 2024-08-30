@@ -1,37 +1,9 @@
 [
     {
-        "Product image": "amd",
-        "Product name": "AMD Radeon RX 6800 XT",
-        "Product description": "Experience extreme gaming performance with the AMD Radeon RX 6800 XT graphics card.",
-        "Price": "$649.99",
-        "Rating": "⭐⭐⭐⭐⭐"
-    },
-    {
-        "Product image": "amd",
-        "Product name": "AMD Ryzen 9 Processor",
-        "Product description": "Unleash incredible processing power with the latest AMD Ryzen 9 for gaming and multitasking.",
-        "Price": "$499.99",
-        "Rating": "⭐⭐⭐⭐⭐"
-    },
-    {
-        "Product image": "airplane",
-        "Product name": "JetMax Airplane Model",
-        "Product description": "Realistic model airplane with intricate details, perfect for aviation enthusiasts.",
-        "Price": "$129.99",
-        "Rating": "⭐⭐⭐⭐"
-    },
-    {
-        "Product image": "apple",
-        "Product name": "Apple MacBook Pro 13",
-        "Product description": "Powerful and portable MacBook Pro with the new M1 chip for unmatched performance.",
-        "Price": "$1299.99",
-        "Rating": "⭐⭐⭐⭐⭐"
-    },
-    {
-        "Product image": "amd",
-        "Product name": "AMD Radeon RX 6800 XT",
-        "Product description": "Experience extreme gaming performance with the AMD Radeon RX 6800 XT graphics card.",
-        "Price": "$649.99",
+        "Product image": "android2",
+        "Product name": "Android Phone X1",
+        "Product description": "High-performance Android phone with an edge-to-edge display and powerful processor.",
+        "Price": "$699.99",
         "Rating": "⭐⭐⭐⭐⭐"
     },
     {
@@ -42,32 +14,11 @@
         "Rating": "⭐⭐⭐⭐⭐"
     },
     {
-        "Product image": "apple",
-        "Product name": "Apple iPhone 12",
-        "Product description": "Experience the latest in mobile technology with the iPhone 12 featuring 5G and advanced cameras.",
-        "Price": "$799.99",
-        "Rating": "⭐⭐⭐⭐⭐"
-    },
-    {
-        "Product image": "amd",
-        "Product name": "AMD Ryzen 9 Processor",
-        "Product description": "Unleash incredible processing power with the latest AMD Ryzen 9 for gaming and multitasking.",
-        "Price": "$499.99",
-        "Rating": "⭐⭐⭐⭐⭐"
-    },
-    {
-        "Product image": "amd",
-        "Product name": "AMD Radeon RX 6800 XT",
-        "Product description": "Experience extreme gaming performance with the AMD Radeon RX 6800 XT graphics card.",
-        "Price": "$649.99",
-        "Rating": "⭐⭐⭐⭐⭐"
-    },
-    {
-        "Product image": "android2",
-        "Product name": "Android Phone X1",
-        "Product description": "High-performance Android phone with an edge-to-edge display and powerful processor.",
-        "Price": "$699.99",
-        "Rating": "⭐⭐⭐⭐⭐"
+        "Product image": "airplane",
+        "Product name": "JetMax Airplane Model",
+        "Product description": "Realistic model airplane with intricate details, perfect for aviation enthusiasts.",
+        "Price": "$129.99",
+        "Rating": "⭐⭐⭐⭐"
     },
     {
         "Product image": "amd",
@@ -82,166 +33,5 @@
         "Product description": "Portable Android tablet with a vibrant display and all-day battery life for work and play.",
         "Price": "$299.99",
         "Rating": "⭐⭐⭐⭐"
-    },
-    {
-        "Product image": "apple",
-        "Product name": "Apple Watch Series 6",
-        "Product description": "Stay connected, healthy, and safe with the latest Apple Watch featuring blood oxygen monitoring.",
-        "Price": "$399.99",
-        "Rating": "⭐⭐⭐⭐⭐"
-    },
-    {
-        "Product image": "amd",
-        "Product name": "AMD Radeon RX 6800 XT",
-        "Product description": "Experience extreme gaming performance with the AMD Radeon RX 6800 XT graphics card.",
-        "Price": "$649.99",
-        "Rating": "⭐⭐⭐⭐⭐"
-    },
-    {
-        "Product image": "airplane",
-        "Product name": "JetMax Airplane Model",
-        "Product description": "Realistic model airplane with intricate details, perfect for aviation enthusiasts.",
-        "Price": "$129.99",
-        "Rating": "⭐⭐⭐⭐"
-    },
-    {
-        "Product image": "apple",
-        "Product name": "Apple Watch Series 6",
-        "Product description": "Stay connected, healthy, and safe with the latest Apple Watch featuring blood oxygen monitoring.",
-        "Price": "$399.99",
-        "Rating": "⭐⭐⭐⭐⭐"
-    },
-    {
-        "Product image": "android2",
-        "Product name": "Android Smartwatch G8",
-        "Product description": "Sleek Android smartwatch with fitness tracking, notifications, and customizable watch faces.",
-        "Price": "$199.99",
-        "Rating": "⭐⭐⭐⭐"
-    },
-    {
-        "Product image": "apple",
-        "Product name": "Apple MacBook Pro 13",
-        "Product description": "Powerful and portable MacBook Pro with the new M1 chip for unmatched performance.",
-        "Price": "$1299.99",
-        "Rating": "⭐⭐⭐⭐⭐"
-    },
-    {
-        "Product image": "amd",
-        "Product name": "AMD Ryzen 9 Processor",
-        "Product description": "Unleash incredible processing power with the latest AMD Ryzen 9 for gaming and multitasking.",
-        "Price": "$499.99",
-        "Rating": "⭐⭐⭐⭐⭐"
-    },
-    {
-        "Product image": "apple",
-        "Product name": "Apple Watch Series 6",
-        "Product description": "Stay connected, healthy, and safe with the latest Apple Watch featuring blood oxygen monitoring.",
-        "Price": "$399.99",
-        "Rating": "⭐⭐⭐⭐⭐"
-    },
-    {
-        "Product image": "apple",
-        "Product name": "Apple MacBook Pro 13",
-        "Product description": "Powerful and portable MacBook Pro with the new M1 chip for unmatched performance.",
-        "Price": "$1299.99",
-        "Rating": "⭐⭐⭐⭐⭐"
-    },
-    {
-        "Product image": "airplane",
-        "Product name": "Aviation Headset Pro",
-        "Product description": "Professional-grade aviation headset with noise cancellation and clear communication.",
-        "Price": "$349.99",
-        "Rating": "⭐⭐⭐⭐"
-    },
-    {
-        "Product image": "airplane",
-        "Product name": "JetMax Airplane Model",
-        "Product description": "Realistic model airplane with intricate details, perfect for aviation enthusiasts.",
-        "Price": "$129.99",
-        "Rating": "⭐⭐⭐⭐"
-    },
-    {
-        "Product image": "amd",
-        "Product name": "AMD Ryzen 9 Processor",
-        "Product description": "Unleash incredible processing power with the latest AMD Ryzen 9 for gaming and multitasking.",
-        "Price": "$499.99",
-        "Rating": "⭐⭐⭐⭐⭐"
-    },
-    {
-        "Product image": "apple",
-        "Product name": "Apple MacBook Pro 13",
-        "Product description": "Powerful and portable MacBook Pro with the new M1 chip for unmatched performance.",
-        "Price": "$1299.99",
-        "Rating": "⭐⭐⭐⭐⭐"
-    },
-    {
-        "Product image": "airplane",
-        "Product name": "Aviation Headset Pro",
-        "Product description": "Professional-grade aviation headset with noise cancellation and clear communication.",
-        "Price": "$349.99",
-        "Rating": "⭐⭐⭐⭐"
-    },
-    {
-        "Product image": "apple",
-        "Product name": "Apple Watch Series 6",
-        "Product description": "Stay connected, healthy, and safe with the latest Apple Watch featuring blood oxygen monitoring.",
-        "Price": "$399.99",
-        "Rating": "⭐⭐⭐⭐⭐"
-    },
-    {
-        "Product image": "android2",
-        "Product name": "Android Phone X1",
-        "Product description": "High-performance Android phone with an edge-to-edge display and powerful processor.",
-        "Price": "$699.99",
-        "Rating": "⭐⭐⭐⭐⭐"
-    },
-    {
-        "Product image": "amd",
-        "Product name": "AMD Radeon RX 6800 XT",
-        "Product description": "Experience extreme gaming performance with the AMD Radeon RX 6800 XT graphics card.",
-        "Price": "$649.99",
-        "Rating": "⭐⭐⭐⭐⭐"
-    },
-    {
-        "Product image": "airplane",
-        "Product name": "Aviation Headset Pro",
-        "Product description": "Professional-grade aviation headset with noise cancellation and clear communication.",
-        "Price": "$349.99",
-        "Rating": "⭐⭐⭐⭐"
-    },
-    {
-        "Product image": "apple",
-        "Product name": "Apple MacBook Pro 13",
-        "Product description": "Powerful and portable MacBook Pro with the new M1 chip for unmatched performance.",
-        "Price": "$1299.99",
-        "Rating": "⭐⭐⭐⭐⭐"
-    },
-    {
-        "Product image": "airplane",
-        "Product name": "JetMax Airplane Model",
-        "Product description": "Realistic model airplane with intricate details, perfect for aviation enthusiasts.",
-        "Price": "$129.99",
-        "Rating": "⭐⭐⭐⭐"
-    },
-    {
-        "Product image": "apple",
-        "Product name": "Apple MacBook Pro 13",
-        "Product description": "Powerful and portable MacBook Pro with the new M1 chip for unmatched performance.",
-        "Price": "$1299.99",
-        "Rating": "⭐⭐⭐⭐⭐"
-    },
-    {
-        "Product image": "android2",
-        "Product name": "Android Smartwatch G8",
-        "Product description": "Sleek Android smartwatch with fitness tracking, notifications, and customizable watch faces.",
-        "Price": "$199.99",
-        "Rating": "⭐⭐⭐⭐"
-    },
-    {
-        "Product image": "apple",
-        "Product name": "Apple MacBook Pro 13",
-        "Product description": "Powerful and portable MacBook Pro with the new M1 chip for unmatched performance.",
-        "Price": "$1299.99",
-        "Rating": "⭐⭐⭐⭐⭐"
     }
 ]
