@@ -243,12 +243,5 @@
         "Product description": "Powerful and portable MacBook Pro with the new M1 chip for unmatched performance.",
         "Price": "$1299.99",
         "Rating": "⭐⭐⭐⭐⭐"
-    },
-    {
-        "Product image": "airplane",
-        "Product name": "JetMax Airplane Model",
-        "Product description": "Realistic model airplane with intricate details, perfect for aviation enthusiasts.",
-        "Price": "$129.99",
-        "Rating": "⭐⭐⭐⭐"
     }
 ]
