@@ -102,7 +102,9 @@ const QuestionWork = memo(() => {
                             {right_answer && (
                                 <div className="mt-10">
                                     <div className="text-start">
-                                        <strong>Ответ:</strong> <span>{right_answer}</span>
+                                    <strong>Ответ: </strong> 
+                                    <span>{right_answer.join(" / ")}</span>
+
                                     </div>
                                 </div>
                             )}
@@ -129,9 +131,8 @@ const QuestionWork = memo(() => {
         </div>
     );
 });
-
 const HomeworkPage = ({ b }) => (
-    <MathJaxContext>
+    <MathJaxContext>    
         <QuestionWork b={b} />
     </MathJaxContext>
 );

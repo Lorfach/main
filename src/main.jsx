@@ -1,5 +1,5 @@
 import { createRoot } from 'react-dom/client';
-import { createBrowserRouter, RouterProvider, createHashRouter } from 'react-router-dom';
+import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import './index.css';
 // import App from './App.jsx';
 import Wrapper from './Components/Wrapper.jsx';
@@ -11,8 +11,8 @@ import Login from './Components/Login/Login.jsx';
 import Header from './Components/Header/Header.jsx';
 import './App.css'
 import Courses from './Components/Courses/Courses.jsx';
-
-const router = createHashRouter([
+// createHashRouter
+const router = createBrowserRouter([
   { 
     path: "/login", 
     element: <Login /> 

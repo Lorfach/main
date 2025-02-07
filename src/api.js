@@ -21,7 +21,7 @@ export async function apiRequest(url, options = {}) {
     // options.body
     // http://localhost:5000/api/
     // https://web-production-0b7b0.up.railway.app/api/
-    const response = await fetch('http://localhost:5000/api/' + url, {
+    const response = await fetch('/api/' + url, {
         ...options,
         headers: {
             ...defaultHeaders,

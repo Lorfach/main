@@ -32,6 +32,7 @@ const Homework_page = memo(() => {
             const response = await apiRequest("question_inside", {
                 body: JSON.stringify({ folder: lessonId, question: homeworkId, [subject_]:'TRUE' }),
             });
+            // console.log(response);
             // console.log(response.questions);
             setQuestions(response);
 
@@ -40,6 +41,7 @@ const Homework_page = memo(() => {
                     body: JSON.stringify({ folder: lessonId, [subject_]:'TRUE' }),
                 });
                 setTitle(a.title)
+                // console.log(a);
                 
             }
             

@@ -104,8 +104,10 @@ const QuestionChoose = memo(({ questions }) => {
         onMouseLeave={stopDragging}
       >
         <div className="inline-flex gap-6">
-          {questions.map((e, index) => (
-            <Choose_element
+          {questions.map((e, index) => {
+            // console.log(e.correct);
+            
+            return <Choose_element
               key={index}
               onClick={handleQuestionClick}
               index={index}
@@ -113,7 +115,7 @@ const QuestionChoose = memo(({ questions }) => {
               order_id={e.order_id}
               isActive={index === questionNumber}
             />
-          ))}
+          })}
         </div>
       </div>
 

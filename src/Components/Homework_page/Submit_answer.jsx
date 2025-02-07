@@ -7,10 +7,13 @@ export const Submit_answer = memo(({ b }) => {
   const { homeworkId, lessonId, subject_ } = useParams();
 
   const currentQuestion = b?.[questionNumber] || {};
-  const { id = '', right_answer } = currentQuestion; // answer содержит свойство answer, которое является массивом
+  const { id = '', right_answer = [] } = currentQuestion; // answer содержит свойство answer, которое является массивом
   
   // Проверяем, если answer.answer[0] существует, иначе возвращаем пустую строку для сравнения
-  const is_answer_correct = inputBlock == right_answer ? true : false;
+  let is_answer_correct = false;
+  for(const answer_item of right_answer){
+    String(inputBlock).toLowerCase() === String(answer_item).toLowerCase() ? is_answer_correct = true : null;
+  }
 
   return (
     <button
