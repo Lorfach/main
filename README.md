@@ -1,5 +1,6 @@
 # Собрано на Vite
-  *  Libs:
+
+*  Libs:
     -  React Router
     -  Tailwind
     -  MathJax
